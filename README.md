@@ -1,6 +1,5 @@
 # Firebase Chat App
-![Image](https://github.com/user-attachments/assets/3a2bb1de-b6d1-4ffe-929e-308f6603550d)
-
+![Image](https://github.com/user-attachments/assets/b37163ac-f613-4c0a-b99b-fe58cae5a5b1)
 
 
 ## Beskrivelse
