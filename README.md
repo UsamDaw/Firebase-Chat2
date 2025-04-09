@@ -12,6 +12,9 @@ Firebase Chat App er en moderne og brukervennlig chatte-applikasjon bygget med H
 - **Responsivt design:** Tilpasser seg ulike skjermstørrelser
 - **Mørk/lys modus:** Brukervennlig tema-veksling som husker preferanser
 
+![Image](https://github.com/user-attachments/assets/3a2bb1de-b6d1-4ffe-929e-308f6603550d)
+
+
 ## Teknologi
 - HTML5
 - CSS3
