@@ -86,12 +86,8 @@ Inneholder all funksjonalitet for:
 - Meldingshåndtering (sending, mottak, redigering, sletting)
 - UI-oppdateringer i sanntid
 
-## Refleksjon over læring
-
-Gjennom utviklingen av denne Firebase Chat-applikasjonen har jeg fått verdifull erfaring med følgende områder:
-
-### Firebase-integrasjon
-Jeg lærte hvordan man setter opp Firebase Authentication og Firestore Database for å skape en komplett fullstack-applikasjon uten å måtte utvikle en egen backend.
+## Refleksjon over læring:
+Jeg lærte hvordan man setter opp Firebase Authentication og Firestore Database. Jeg også spurte AI om å forklare meg noen av elementene som ble brukt for Firebase; addDoc, onSnapshot, serverTimestap, orderBy, query. Det var nyttig. Jeg fikk lære mye.
 
 ### Sanntids-databaser
 Ved å bruke Firestore lærte jeg hvordan man kan implementere sanntidsoppdateringer i en webapplikasjon, som gir brukerne en mer engasjerende opplevelse.
